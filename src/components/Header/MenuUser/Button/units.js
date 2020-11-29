@@ -10,10 +10,10 @@ const StyledButton = styled.div`
     justify-content: center;
     cursor: pointer;
     padding-bottom: 4px;
+    user-select: none;
 
     &:hover {
-        /* background-color: #fc8507; */
-        background: linear-gradient(to bottom, #fc8507, #bb5507);
+        background: linear-gradient(to top, #ff0000 33%, #0000ff 73%, #ffffff 33%);
         border-bottom: 4px solid #cc6617;
         color: white;
         font-weight: 600;

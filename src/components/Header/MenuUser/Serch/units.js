@@ -12,7 +12,7 @@ const StyledInput = styled.input`
     width: 400px;
     font-size: 15px;
     border-radius: 9px;
-    padding: 0 30px;
+    padding: 0 30px 0 10px;
 
     & :active {
         border: 0px;
